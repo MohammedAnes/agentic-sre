@@ -163,7 +163,6 @@ python scripts/trigger.py ok
 | Webhook handler | Node.js snippet | Full Python Lambda |
 | Custom Skills | Mentioned briefly | Complete runbook example |
 | Demo triggers | Not provided | `scripts/trigger.py` |
-| Kiro handoff | Described | Walkthrough in post |
 
 ---
 
